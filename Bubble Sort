@@ -1,5 +1,5 @@
 class Solution {
-    public int[] bubbleSort(int[] nums) {
+    public int[] bubbleSort(int[] nums)  {
         int n = nums.length;
         
         // Outer loop for each pass
